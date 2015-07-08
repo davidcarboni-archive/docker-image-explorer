@@ -9,7 +9,7 @@ Once you exit the container, it is automatically deleted by the docker `--rm` op
 ## Usage
 
 ```
-explore.sh <image name>
+./explore.sh <image>
 ```
 
 ## Changing docker run options
