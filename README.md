@@ -17,6 +17,6 @@ Once you exit the container, it is automatically deleted by the docker `--rm` op
 If you need additional options on docker run, exit the container and use
 
 ```
-docker run -i -t --rm [options] manual
+docker run -i -t --rm [options] image-explorer
 ```
 
